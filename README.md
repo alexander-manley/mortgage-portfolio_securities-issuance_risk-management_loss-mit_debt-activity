@@ -8,3 +8,10 @@ unit sales regression
 
 mortgage orginations: purchase and refinance
 
+credit risk transfer
+
+Certificate ratings
+
+Guaranteed senior certificates
+
+Unguaranteed mezzanine and subordinate certificates
