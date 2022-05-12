@@ -11,6 +11,8 @@ mortgage orginations: purchase and refinance
 
 ML rule matrices
 
+credit risk modeling of mortgages
+
 credit risk transfer
 
 certificate ratings
