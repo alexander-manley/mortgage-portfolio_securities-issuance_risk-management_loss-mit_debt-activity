@@ -9,8 +9,6 @@ unit sales regression
 
 mortgage orginations: purchase and refinance
 
-ML rule matrices
-
 credit risk modeling of mortgages
 
 credit risk transfer
@@ -23,7 +21,7 @@ unguaranteed mezzanine and subordinate certificates
 
 loan underwriting process
 
-rules matrix and matching process
+ML rules matrices and matching process
 
 Automated reports: Broadcom autosys workload / Job Information Language (JIL)
 
